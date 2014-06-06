@@ -17,20 +17,16 @@
  */
 @font-face {
   font-family: 'DejaVuSerifBook';
-  src: url('DejaVuSerif-webfont.eot');
-  src: url('DejaVuSerif-webfont.eot?#iefix') format('eot'),
-    url('DejaVuSerif-webfont.svg#dejavu_serifbook') format('svg'),
-    url('DejaVuSerif-webfont.woff') format('woff'),
-    url('DejaVuSerif-webfont.ttf') format('truetype');
+  src: url('DejaVuSerif-webfont.svg#dejavu_serifbook') format('svg'),
+       url('DejaVuSerif-webfont.woff') format('woff'),
+       url('DejaVuSerif-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
     font-family: 'DejaVuSansCondensedBold';
-    src: url('DejaVuSansCondensed-Bold-webfont.eot');
-    src: url('DejaVuSansCondensed-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('DejaVuSansCondensed-Bold-webfont.svg#dejavu_sanscondensed_bold') format('svg'),
+    src: url('DejaVuSansCondensed-Bold-webfont.svg#dejavu_sanscondensed_bold') format('svg'),
          url('DejaVuSansCondensed-Bold-webfont.woff') format('woff'),
          url('DejaVuSansCondensed-Bold-webfont.ttf') format('truetype');
     font-weight: bold;

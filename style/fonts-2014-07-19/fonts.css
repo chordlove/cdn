@@ -1,0 +1,49 @@
+/*
+ *Chordlove is a tool for sharing song chords and lyrics.
+ *Copyright (C) 2013-2014 NA Konsult AB
+ *
+ *This program is free software: you can redistribute it and/or modify
+ *it under the terms of the GNU Affero General Public License as published by
+ *the Free Software Foundation, either version 3 of the License, or
+ *(at your option) any later version.
+ *
+ *This program is distributed in the hope that it will be useful,
+ *but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *GNU Affero General Public License for more details.
+ *
+ *You should have received a copy of the GNU Affero General Public License
+ *along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+@font-face {
+  font-family: 'DejaVuSerifBook';
+  src: local('DejaVu Serif'), local('DejaVu Serif Book'), url('DejaVuSerif-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'DejaVuSansCondensedBold';
+    src: local('DejaVu Sans Condensed Bold'), url('DejaVuSansCondensed-Bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Sans'; 
+    src: local('PT Sans'), url('PTS55F_W.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PT Sans'; 
+    font-style: italic;
+    src: local('PT Sans Italic'), url('PTS56F_W.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: bold; 
+    src: local('PT Sans Bold'), url('PTS75F_W.woff') format('woff');
+}
+
